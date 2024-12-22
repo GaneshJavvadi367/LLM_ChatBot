@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# LLM_ChatBot
-=======
-<<<<<<< HEAD
-# LLM_ChatBot
-=======
-
 
 # 🚀 **Chatbot using RAG, LangChain, and Streamlit** 🤖  
 

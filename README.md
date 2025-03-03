@@ -104,5 +104,4 @@ streamlit run rag/app.py
 ---
 
 Enjoy exploring the chatbot! 🚀✨
->>>>>>> 581c395 (commit)
->>>>>>> 561f544 (intial commit)
+
